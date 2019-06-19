@@ -1,0 +1,2 @@
+# minerr
+projekt jaszuk minerr
